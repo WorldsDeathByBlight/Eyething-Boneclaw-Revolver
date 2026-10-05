@@ -1,0 +1,75 @@
+{
+  "replacement_rules": [
+    {
+      "name": "body",
+      "replace_ids": [
+        14002831630
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/WorldsDeathByBlight/Eyething-Boneclaw-Revolver/raw/refs/heads/main/eyething%20boneclaw%20body.obj"
+    },
+    {
+      "name": "chamber",
+      "replace_ids": [
+        14242054035
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/WorldsDeathByBlight/Eyething-Boneclaw-Revolver/raw/refs/heads/main/eyething%20boneclaw%20chamber.obj"
+    },
+    {
+      "name": "shoot sound",
+      "replace_ids": [
+        14417089046,
+        14417089152,
+        14417088974,
+        14417089307,
+        14417089046,
+        14417089152,
+        14417088974,
+        14417089307
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 104731232227748
+    },
+    {
+      "name": "remove",
+      "replace_ids": [
+        14002774305,
+        14241792580,
+        14002774206
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "icon 1",
+      "replace_ids": [
+        17160800299
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 119174697609264
+    },
+    {
+      "name": "icon 2",
+      "replace_ids": [
+        14020829500
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 134217952089145
+    },
+    {
+      "name": "upper",
+      "replace_ids": [
+        14242054178
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/WorldsDeathByBlight/Eyething-Boneclaw-Revolver/raw/refs/heads/main/eyething%20boneclaw%20eyes.obj"
+    }
+  ]
+}
